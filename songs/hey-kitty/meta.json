@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 155,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "hey-kitty",
+	"icon": "Icon",
+	"name": "hey-kitty",
+	"color": "#FFFFFF"
+}

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="testShit" folder="stages/test">
+	<sprite name="png" x="650" y="350" scaley="20.0" scalex="30.5" sprite="png" scroll="0"/>
+
+    <girlfriend x="100000"/>
+</stage>

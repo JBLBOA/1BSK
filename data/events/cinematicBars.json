@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Enabled",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "cameraZoom",
+            "type": "Bool",
+            "defaultValue": true
+        }
+    ]
+}

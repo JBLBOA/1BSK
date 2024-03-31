@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 120,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "pop-shove-it",
+	"icon": "Icon",
+	"name": "pop-shove-it",
+	"color": "#FFFFFF"
+}

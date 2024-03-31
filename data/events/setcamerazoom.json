@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Zoom",
+            "type": "Float(0.05, 10, 0.01, 2)",
+            "defaultValue": 1.05
+        }
+    ]
+}
